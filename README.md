@@ -15,7 +15,7 @@ Portfolio: https://crdz05.github.io
 
 ## Projects
 
-- **Ocean Guardian** (HackUSF, Mar 2026): Ecosystem-aware computer-vision prototype for an ocean-cleanup robot. Uses YOLOv8 to tell marine life from trash and a 7-tier priority system that blocks trash collection when marine life is nearby.
+- **Ocean Guardian** (HackUSF, Mar 2026): Ecosystem-aware computer-vision prototype for an ocean-cleanup robot. Uses YOLOv8 detection (COCO classes stand in for marine life in the demo) and a 7-tier priority system that blocks trash collection when marine life is nearby.
 - **AI Fruit-Ripeness Classifier** (Samsung Innovation Campus, Dec 2025): Streamlit app that classifies 5 fruit types across 3 ripeness states, with confidence scores and Plotly charts. Built with TensorFlow/Keras and MobileNetV2.
 - **Copa Airlines Data, Analytics & AI Hackathon** (Oct 2025): Cleaned datasets, built a machine learning model in AWS SageMaker Canvas, and structured a Bronze-Silver-Gold data pipeline in Databricks.
 
